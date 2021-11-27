@@ -1,2 +1,1 @@
-﻿# MOHINI TRIPATHI
- #### I am a Application Development Analyst
+I am a Application Development Analyst
